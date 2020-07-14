@@ -1,7 +1,7 @@
 Website
 =======
 
-So, you’ve got your `domain name <domain-name>`_.
+So, you’ve got your :doc:`domain name <domain-name>`.
 Great. Now, what you want is when
 someone inputs an address into their web browser, they will see your
 website. You need a *web hosting* service.

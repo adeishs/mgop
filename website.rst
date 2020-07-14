@@ -76,7 +76,7 @@ Services <https://aws.amazon.com>`_, `Google Cloud <https://cloud.google.com>`_,
 and `Microsoft Azure <https://azure.microsoft.com>`_.
 
 They do, however, provide more than web hosting. Actually, web hosting
-is just one the the plethora of services they offer. So, it could be
+is just one of the plethora of services they offer. So, it could be
 overwhelming.
 
 In terms of flexibility, these services are the most flexible in

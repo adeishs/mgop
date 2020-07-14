@@ -6,8 +6,8 @@ a gig. Some others don’t have that option, because they live half a
 continent away from where you do your gigs.
 
 There are many ways to run your online shop. However, you need to spend
-time analysing which one would work well for you. Your `website hosting
-<website>`_ may have an online shop feature (probably at an extra cost).
+time analysing which one would work well for you. Your :doc:`website hosting
+<website>` may have an online shop feature (probably at an extra cost).
 
 Alternatively, you can host it elsewhere. If your web hosting provider
 allows it, you can install an e-commerce application and customise it.

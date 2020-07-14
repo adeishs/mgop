@@ -57,8 +57,8 @@ to reach me.
 
 In general, I prioritise stuff. In the context of this article, your
 message will move higher in my priority bucket depending on how well
-you have followed the advice given in the `‘How to Pay’
-section <how-to-pay>`_.
+you have followed the advice given in the :doc:`‘How to Pay’
+section <how-to-pay>`.
 
 Visit my website at `www.adeishs.com <https://www.adeishs.com>`_.
 

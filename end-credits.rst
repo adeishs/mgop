@@ -6,7 +6,7 @@ Advani, Paul Bonnington, and Sandra Bogerd for reviewing the draft
 version of this article and making suggestions and corrections.
 
 Any suggestions for future revisions?
-`Contact me <#contact>`_.
+:doc:`Contact me <contact>`.
 
 About ade ishs
 --------------
@@ -70,8 +70,7 @@ Legal
 © 2017–2020 ade ishs. All rights reserved.
 
 No part of this article may be reproduced without written permission
-from me. Permits may be obtained by writing to me (see the `‘Contact
-info’ section <#contact>`_).
+from me. Permits may be obtained by :doc:`writing to me <contact>`.
 
 However, you’re allowed to share this article to other people.
 

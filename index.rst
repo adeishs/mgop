@@ -33,7 +33,7 @@ should do your own research.
 Although this article is publicly available and not behind any
 paywall, I expect some donation. I have spent a lot of time and energy
 to produce it. So, go ahead and read this. If you find it useful,
-please donate. Refer to the `‘How to Pay’ section <how-to-pay>`__
+please donate. Refer to the :doc:`‘How to Pay’ section <how-to-pay>`
 for payment methods.
 
 Alright. Ready now?

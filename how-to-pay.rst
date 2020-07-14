@@ -2,8 +2,7 @@ How to Pay for This Article
 ===========================
 
 If you have paid for this article, thank you and you can jump to
-[‘End Credits’](#sec:end.credits){reference-type="ref"
-reference="sec:end.credits"}. If not, …
+:doc:`end credits <end-credits>`. If not, …
 
 Have you found this article useful? If you have, please understand that
 I have spent my time and energy to produce this and I would appreciate
@@ -16,7 +15,7 @@ one or more of the following:
    playing next.
 #. **Book me a gig**. Fish or fishing pole, I’m grateful for both.
 #. **Donate** and get my music as well. Go to my Bandcamp site
-   `adeishs.bandcamp.com <https://adeishs.bandcamp>`_ and buy any of my music.
+   `adeishs.bandcamp.com <https://adeishs.bandcamp.com>`_ and buy any of my music.
    If you happen to have all, you can gift it to others.
 #. **Broadcast my music** if you’re a radio DJ, TV programme host, etc.
    Anything that makes royalty money trickles into my bank account.

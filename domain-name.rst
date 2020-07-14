@@ -5,8 +5,8 @@ Why have your own domain name? Tell me, if you need to put one of these
 addresses in your gig poster, which one looks best? (This example
 contains a blatant plug.)
 
-#. `www.someisp.net.au/users/adeishs <.>`_
-#. `www.freehosting.com/adeishs <.>`_
+#. `www.someisp.net.au/users/adeishs <#>`_
+#. `www.freehosting.com/adeishs <#>`_
 #. `www.adeishs.com <https://www.adeishs.com>`_
 
 Exactly. You need to have your own domain name. How to choose your
@@ -36,7 +36,7 @@ As at now, I personally use and recommend
 use and the prices are reasonable.
 
 You might have noticed that some website hosting companies
-(discussed in the `<website>`_)
+(discussed in the :doc:`‘Website’ section <website>`)
 offer a ‘free’ domain name if you use their service. Personally, I
 prefer putting things in different baskets and not getting locked in,
 and for those reasons, I decline the ‘free’ offer. The cost of domain
